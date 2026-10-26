@@ -1,0 +1,2 @@
+# GenshinModManager
+GenshinModManager
